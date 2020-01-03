@@ -1,9 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "item":
+    { "id": 1, "name": "Ayershire"},
+  "comments":
+    { "id": 1, "body": "I wore this sweater on the very first date I went on with my wife"},
+  "author": 
+	{ "description": "I love going to the beach" },
+  "notes": 
+	{"comments": "I cut the sleeves to make it sleeveless"}
 }
